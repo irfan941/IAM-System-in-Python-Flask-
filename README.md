@@ -150,11 +150,3 @@ The database file (iam.db) is automatically created in the project directory.
 
 You can use a tool like DB Browser for SQLite to view the database.
 
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-Contributing
-Contributions are welcome! Please open an issue or submit a pull request.
-
-Author
-Your Name
